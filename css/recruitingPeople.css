@@ -1,0 +1,87 @@
+.banner img{
+    display: inline-block;
+}
+
+.pageSelect {
+	background-color:#f7f7fb ;
+	width: 100%;
+	height: 70px;
+}
+
+.listContent {
+	width: 800px;
+	margin: 0 auto;
+} 
+
+.spansel {
+	color: #6b6b71;
+	font-size: 12px;
+}
+
+.spanTitle {
+	padding-left: 55px;
+}
+
+.pageSel a {
+	padding:5px 10px 5px 10px;
+	border-radius: 3px;
+}
+
+.pageSel a:first-child {
+	margin-left: 10px;
+}
+
+
+.table {
+	width: 100%;
+	padding-bottom: 20px;
+}
+
+.table tr td {
+	color: #6b6b71;
+	text-align: center;
+	font-size: 12px;
+}
+
+.table tr {
+	height: 50px;
+}
+
+.table tr th {
+	border-bottom: 2px solid #f7f7fb;
+}
+
+.table tr:first-child {
+	height: 80px;
+	border-bottom: 2px solid #f7f7fb;
+}
+
+
+.grayCell {
+	background-color: #f7f7fb;
+}
+
+.pageNum {
+	margin-top:20px ;
+	padding-bottom:20px ;
+}
+
+.pageNum a {
+	display: inline-block;
+	margin-left: 3px;
+}
+
+.defaultPage {	
+	border: 1px solid  #e8e8e8;
+	color: #6b6b71;
+	line-height: 25px;
+	text-align: center;
+	width: 25px;
+	height: 25px;
+	border-radius:3px ;
+}
+
+.selectPage {
+	background-color: #e70012;
+	color: white;
+}
